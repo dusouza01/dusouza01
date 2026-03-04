@@ -1,4 +1,4 @@
-# Eduardo de Souza Oliveira 👋
+# Eduardo de Souza Oliveira
 
 Analista de Dados com foco em **BI, automação e storytelling com dados**.  
 Trabalho com **Power BI, SQL e Python** para transformar dados em decisões.
