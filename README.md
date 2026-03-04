@@ -42,9 +42,3 @@ Ex.: `- [nome-do-repo](https://github.com/SEU_USUARIO/nome-do-repo)`
 ## 📫 Contato
 - LinkedIn: (https://www.linkedin.com/in/eduardo-de-souza-oliveira-502924259/)
 - Email: eduardo.souza01@outlook.com
-
----
-
-## ✅ Atualmente
-- 📌 Estudando: modelagem dimensional, DAX avançado e boas práticas de BI
-- 🛠️ Construindo: portfólio com projetos reais e dados públicos
