@@ -28,15 +28,6 @@ Trabalho com **Power BI, SQL e Python** para transformar dados em decisões.
 - 📌 **Organograma interativo (Power BI / Web)**  
   Visual hierárquico com drill-down e exibição de funcionários por área.
 
-> Dica: aqui você pode colocar links fixos para repos.  
-Ex.: `- [nome-do-repo](https://github.com/SEU_USUARIO/nome-do-repo)`
-
----
-
-## 📈 GitHub Stats (opcional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
-
 ---
 
 ## 📫 Contato
