@@ -26,7 +26,7 @@
 - <strong>Tools:</strong> Streamlit, Plotly, Git, SAP
 
 <p align="center">
-  <img alt="Power BI" title="Power BI" height="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />&nbsp;&nbsp;
+  <img alt="Power BI" title="Power BI" height="48" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />&nbsp;&nbsp;
   <img alt="Tech icons" height="60" src="https://skillicons.dev/icons?i=python,postgres,aws,git,github&perline=5" />
 </p>
 
