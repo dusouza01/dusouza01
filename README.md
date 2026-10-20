@@ -20,21 +20,20 @@
 
 ### 💻 Tech Stack
 
-- <strong>Data & BI:</strong> Power BI (DAX, data modeling), Tableau, Excel, ETL, Data Warehousing
-- <strong>Languages:</strong> Python (Pandas, Scikit-learn, Selenium), SQL, Node.js
+- <strong>Data & BI:</strong> Power BI (DAX, data modeling), Excel, ETL, Data Warehousing
+- <strong>Languages:</strong> Python (Pandas, Scikit-learn, Selenium), SQL
 - <strong>Big Data & Cloud:</strong> Databricks, Spark, AWS
 - <strong>Tools:</strong> Streamlit, Plotly, Git, SAP
 
 <p align="center">
   <img alt="Power BI" title="Power BI" height="60" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />&nbsp;&nbsp;
-  <img alt="Tech icons" height="60" src="https://skillicons.dev/icons?i=python,postgres,nodejs,sklearn,aws,git,github&perline=7" />
+  <img alt="Tech icons" height="60" src="https://skillicons.dev/icons?i=python,postgres,aws,git,github&perline=5" />
 </p>
 
 <p align="center">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="35" />
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="35" />
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="35" />
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="35" />
 </p>
 
 ---
